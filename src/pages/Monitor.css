@@ -1,0 +1,83 @@
+/* Page background */
+.monitor-container {
+  min-height: 100vh;
+  background: linear-gradient(135deg, #f3f4f7, #e7ebf0);
+  display: flex;
+  justify-content: center;
+  padding: 40px 20px;
+}
+
+/* Centered card */
+.monitor-card {
+  background: #ffffff;
+  padding: 30px 40px;
+  border-radius: 18px;
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.08);
+  max-width: 700px;
+  width: 100%;
+  animation: fadeIn 0.5s ease;
+}
+
+/* Title */
+.monitor-title {
+  text-align: center;
+  margin-bottom: 30px;
+  font-size: 2.2rem;
+  color: #333;
+  font-weight: 700;
+}
+
+/* Grid of quote boxes */
+.quotes-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(160px, 1fr));
+  gap: 15px;
+}
+
+/* Each quote box */
+.quote-box {
+  display: flex;
+  flex-direction: column;
+  padding: 18px;
+  border-radius: 12px;
+  background: #f9fafc;
+  border: 1px solid #dfe4ea;
+  text-decoration: none;
+  color: #333;
+  transition: all 0.25s ease;
+}
+
+/* Number */
+.quote-number {
+  font-size: 1.4rem;
+  font-weight: 700;
+  color: #4a78ff;
+  margin-bottom: 6px;
+}
+
+/* Quote text */
+.quote-title {
+  font-size: 0.95rem;
+  font-weight: 500;
+  color: #555;
+}
+
+/* Hover effect */
+.quote-box:hover {
+  background: #eef3ff;
+  border-color: #4a78ff;
+  transform: translateY(-3px);
+  box-shadow: 0 6px 12px rgba(60, 90, 255, 0.15);
+}
+
+/* Fade-in animation */
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(6px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
