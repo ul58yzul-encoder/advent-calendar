@@ -60,7 +60,7 @@ export default function QuotePage({ index }) {
           zIndex: 10
         }}
       >
-        🔔 {index + 1}
+        🔔
       </button>
 
       {/* Content */}
