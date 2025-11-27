@@ -2,6 +2,7 @@
   "name": "advent-quotes",
   "version": "1.0.0",
   "private": true,
+  "homepage": "https://ul58yzul-encoder.github.io/advent-calendar",
   "dependencies": {
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
