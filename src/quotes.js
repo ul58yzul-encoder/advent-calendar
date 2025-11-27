@@ -1,0 +1,27 @@
+export const quotes = [
+  // index 0 is quote 1, etc.
+  { id: "123456", text: "Happiness depends upon ourselves. — Aristotle" },
+  { id: "215645", text: "The purpose of our lives is to be happy. — Dalai Lama" },
+  { id: "398721", text: "Most folks are as happy as they make up their minds to be. — Abraham Lincoln" },
+  { id: "556732", text: "The greatest happiness you can have is knowing you do not require happiness. — Saroyan" },
+  { id: "992134", text: "Happiness is not something ready-made. — Dalai Lama" },
+  { id: "112233", text: "We are what we repeatedly do. — Durant" },
+  { id: "224466", text: "Be not afraid of growing slowly. — Chinese Proverb" },
+  { id: "334455", text: "What you do today can improve all your tomorrows. — Marston" },
+  { id: "445566", text: "It is never too late to be what you might have been. — Eliot" },
+  { id: "556677", text: "If you want to improve, accept being thought foolish. — Epictetus" },
+  { id: "667788", text: "The meeting of two personalities transforms them. — Jung" },
+  { id: "778899", text: "To love and be loved is the greatest thing. — Ahbez" },
+  { id: "889900", text: "We accept the love we think we deserve. — Chbosky" },
+  { id: "990011", text: "Hearing what isn’t said matters. — Drucker" },
+  { id: "101112", text: "A real friend walks in when others walk out. — Winchell" },
+  { id: "121314", text: "Scrum is a framework. — Schwaber" },
+  { id: "131415", text: "Inspection without adaptation is pointless. — Sutherland" },
+  { id: "141516", text: "People over processes. — Agile Manifesto" },
+  { id: "151617", text: "Fail fast, learn faster. — Agile thinking" },
+  { id: "161718", text: "Without transparency, adaptation is impossible. — Scrum Guide" },
+  { id: "171819", text: "Communication works for those who work at it. — Powell" },
+  { id: "181920", text: "To listen well is powerful. — Marshall" },
+  { id: "192021", text: "Wise men speak because they have something to say. — Plato" },
+  { id: "202122", text: "The biggest problem is thinking communication happened. — Shaw" }
+];
