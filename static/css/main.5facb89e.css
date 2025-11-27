@@ -1,0 +1,2 @@
+.fade{animation:fadein 1.5s}@keyframes fadein{0%{opacity:0}to{opacity:1}}.snow-container{height:100%;left:0;overflow:hidden;pointer-events:none;position:absolute;top:0;width:100%;z-index:5}.snowflake{animation-iteration-count:infinite;animation-name:snowFall;animation-timing-function:linear;color:#fff;opacity:.9;position:absolute;top:-10px}@keyframes snowFall{0%{transform:translateY(-10px) translateX(0)}to{transform:translateY(110vh) translateX(25px)}}body{font-family:sans-serif;margin:0}
+/*# sourceMappingURL=main.5facb89e.css.map*/
