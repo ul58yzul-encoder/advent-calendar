@@ -100,13 +100,23 @@
     "exercise": "Remember a challenging moment you overcame."
   },
   {
-    "text": "Happy a nice day",
+    "text": "Have a nice day",
     "meaning": "<3",
     "exercise": "Be happy, make Popcorn, enjoy a movie."
   },
   {
     "text": "Thank you for everything you do. I notice it, and it means a lot to me.",
     "meaning": "I feel lucky to have you in my life.",
+    "exercise": ":-)"
+  },
+  {
+    "text": "Your happiness matters to me lot.",
+    "meaning": "Your well-being is important, and your joy is valued.",
+    "exercise": "Identify what would make your day feel lighter, and tell me about them."
+  },
+  {
+    "text": "I love that you are a gamer.",
+    "meaning": "I really enyjoy playing with you.",
     "exercise": ":-)"
   }
 ]
