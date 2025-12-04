@@ -32,7 +32,7 @@ export default function QuotePage({ index }) {
       className="fade"
       style={{
         height: '100vh',
-        backgroundImage: `url(/backgrounds/${index + 1}.png)`,
+        backgroundImage: `url(${process.env.PUBLIC_URL}/backgrounds/${index + 1}.png)`,
         backgroundSize: '100% 100%',   // FULL stretch
         backgroundPosition: 'center',
         backgroundRepeat: 'no-repeat',
